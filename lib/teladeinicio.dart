@@ -10,6 +10,7 @@ class Inicio extends StatelessWidget {
         centerTitle: true,
         backgroundColor: const Color.fromARGB(22, 33, 243, 121),
       ),
+      
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
